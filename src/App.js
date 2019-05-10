@@ -4,7 +4,7 @@ class App extends Component {
   render () {
   return (
     <div >
-      
+      To-Do Tasks Organizer
     </div>
     );
   }
